@@ -16,7 +16,7 @@
   <remote fetch="https://source.codeaurora.org/external/imxsupport" name="imx-support"/>
 
 
-  <remote fetch="git://github.com/embeddedartists"  name="EA"/>
+  <remote fetch="git://github.com/edstarkers"  name="EA"/>
   <remote fetch="git://github.com/murata-wireless"  name="Murata"/>
 
   <project name="fsl-community-bsp-base" path="sources/base" remote="community" revision="01488a237cdf45b3087420e169c9f67b84fd7373">
