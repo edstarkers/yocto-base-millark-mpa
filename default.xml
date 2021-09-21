@@ -16,7 +16,7 @@
   <remote fetch="https://source.codeaurora.org/external/imxsupport" name="imx-support"/>
   <remote fetch="git://github.com/murata-wireless"  name="Murata"/>
   
-  <!-- Nixer RL256 Specific Sources -->
+  <!-- Custom Specific Sources -->
   <remote fetch="git://github.com/edstarkers"  name="EA"/>
   
    <project remote="EA" name="meta-ea" path="sources/meta-ea" revision="ad875448ef8919f2ff4164adc9765c45a3f9caaa" >
