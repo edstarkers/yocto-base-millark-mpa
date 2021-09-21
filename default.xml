@@ -18,11 +18,17 @@
   
   <!-- Nixer RL256 Specific Sources -->
   <remote fetch="git://github.com/edstarkers"  name="EA"/>
- 
-  <project name="rl256-meta-imx" path="sources/meta-imx" remote="EA" revision="9275c093744354cdebd5280b3f893a1227ee50e2"/>
-  <project remote="EA" name="meta-ea" path="sources/meta-ea" revision="b75ae464db52d5d56d0c4bb87ae159ea91ee97df" >
+  
+   <project remote="EA" name="meta-ea" path="sources/meta-ea" revision="ad875448ef8919f2ff4164adc9765c45a3f9caaa" >
      <copyfile src="ea-setup-release.sh" dest="ea-setup-release.sh"/>
   </project>
+  
+ 
+  <project name="rl256-meta-imx" path="sources/meta-imx" remote="EA" revision="9275c093744354cdebd5280b3f893a1227ee50e2"/>
+ 
+  
+  
+   <!-- Embedded Artists Sources -->
   
    <project name="fsl-community-bsp-base" path="sources/base" remote="community" revision="01488a237cdf45b3087420e169c9f67b84fd7373">
     <linkfile dest="README" src="README"/>
