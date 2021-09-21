@@ -20,7 +20,7 @@
   <remote fetch="git://github.com/edstarkers"  name="EA"/>
  
   <project name="rl256-meta-imx" path="sources/meta-imx" remote="EA" revision="9275c093744354cdebd5280b3f893a1227ee50e2"/>
-  <project remote="EA" name="rl256-meta-ea" path="sources/meta-ea" revision="97fcd01229090ea4f27a6dd424a87e99beeabf2f" >
+  <project remote="EA" name="rl256-meta-ea" path="sources/meta-ea" revision="9c6f9cd2d2e594f5604240be8821271b9039e130" >
      <copyfile src="ea-setup-release.sh" dest="ea-setup-release.sh"/>
   </project>
   
