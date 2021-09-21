@@ -25,7 +25,7 @@
   </project>
   
   
-  <project name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty" remote="community" revision="dbcc686f52c3c84db8cb86aa8973a4e373651b98"/>
+  <project name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty" remote="community" revision="01488a237cdf45b3087420e169c9f67b84fd7373"/>
   <project name="fsl-community-bsp-base" path="sources/base" remote="community" revision="b75ae464db52d5d56d0c4bb87ae159ea91ee97df">
     <linkfile dest="README" src="README"/>
     <linkfile dest="setup-environment" src="setup-environment"/>
