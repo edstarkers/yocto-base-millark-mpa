@@ -1,1 +1,1 @@
-# ea-yocto-base
+# A clone of Embedded Artists yocto-base
