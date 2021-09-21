@@ -21,13 +21,13 @@
   
   <!-- meta-ea is a clone of Embedded Artists meta-ea, this version has custom machine definitions and pulls a cloned linux -->
   
-   <project remote="EA" name="meta-ea" path="sources/meta-ea" revision="ad875448ef8919f2ff4164adc9765c45a3f9caaa" >
+   <project remote="EA" name="meta-ea" path="sources/meta-ea" revision="e92c621122cbade9455780fb56ab9cec5ddf804b" >
      <copyfile src="ea-setup-release.sh" dest="ea-setup-release.sh"/>
   </project>
   
   <!-- rl256-meta-imx is a clone of meta-imx, this version has is patched to allow the uart4 to be accessible from the A53 CPU -->
   
-  <project name="rl256-meta-imx" path="sources/meta-imx" remote="EA" revision="9275c093744354cdebd5280b3f893a1227ee50e2"/>
+  <project name="rl256-meta-imx" path="sources/meta-imx" remote="EA" revision="8425f705fb5676fcb796c39a82e6c3fba92a7c8f"/>
  
   
   
