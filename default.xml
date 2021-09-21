@@ -19,7 +19,7 @@
   <!-- Nixer RL256 Specific Sources -->
   <remote fetch="git://github.com/edstarkers"  name="EA"/>
  
-  <project name="meta-imx" path="sources/meta-imx" remote="EA" revision="refs/tags/rel_imx_5.4.47_2.2.0" upstream="zeus-5.4.47-2.2.0"/>
+  <project name="rl256-meta-imx" path="sources/meta-imx" remote="EA" revision="refs/tags/rel_imx_5.4.47_2.2.0" upstream="zeus-5.4.47-2.2.0"/>
   <project remote="EA" name="rl256-meta-ea" path="sources/meta-ea" revision="61e1466db0568b0646e78856bd681e61b51ec8b2" >
      <copyfile src="ea-setup-release.sh" dest="ea-setup-release.sh"/>
   </project>
