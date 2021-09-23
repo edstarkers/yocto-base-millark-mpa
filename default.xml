@@ -21,7 +21,7 @@
   
   <!-- meta-ea is a clone of Embedded Artists meta-ea, this version has custom machine definitions and pulls a cloned linux -->
   
-   <project remote="ES" name="meta-ea" path="sources/meta-ea" revision="6f6d37fb1d135a40eb00d492b3f90bb6a62be410" >
+   <project remote="ES" name="meta-ea" path="sources/meta-ea" revision="ec1e9ff4ccd0c9fbae90c75977af715bc904af79" >
      <copyfile src="ea-setup-release.sh" dest="ea-setup-release.sh"/>
   </project>
   
