@@ -31,7 +31,7 @@
   
    <!-- clone of murata wireless as machine defnintions exist in the layers... why oh why....-->
  
-   <project remote="ES" name="murata-wireless" path="sources/meta-murata-wireless" revision="635c6244303a665e2e5cb826bd97fab08f881103" />
+   <project remote="ES" name="murata-wireless" path="sources/meta-murata-wireless" revision="8d14233195dda9dd47731afd8472cced93f64279" />
   
   
   
