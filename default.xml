@@ -21,7 +21,7 @@
   
   <!-- meta-ea is a clone of Embedded Artists meta-ea, this version has custom machine definitions and pulls a cloned linux -->
   
-   <project remote="ES" name="meta-millark-mpa" path="sources/meta-ea" revision="2270e774b60a11e63248baad91f3e09c1c48e30d" >
+   <project remote="ES" name="meta-millark-mpa" path="sources/meta-ea" revision="b4dab541ffba10defad54f2b168056b385c9269c" >
      <copyfile src="ea-setup-release.sh" dest="ea-setup-release.sh"/>
   </project>
   
